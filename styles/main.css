@@ -1,0 +1,22 @@
+body{background-color:#000}canvas{image-rendering:-moz-crisp-edges;image-rendering:-webkit-optimize-contrast;image-rendering:-o-crisp-edges;image-rendering:pixelated;-ms-interpolation-mode:nearest-neighbor}#game_container{width:800px;margin:auto}#gameview{ color: #fff; text-align: center; } #gameview:empty:after { content: 'Loading...'; }
+/*
+     FILE ARCHIVED ON 00:22:37 Nov 07, 2015 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:34:30 Jan 16, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  PetaboxLoader3.resolve: 40.437
+  PetaboxLoader3.datanode: 117.385 (4)
+  exclusion.robots: 1.175
+  load_resource: 64.513
+  RedisCDXSource: 17.322
+  CDXLines.iter: 15.684 (3)
+  LoadShardBlock: 137.558 (3)
+  esindex: 0.014
+  exclusion.robots.policy: 0.392
+  captures_list: 174.943
+*/
